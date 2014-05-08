@@ -1,6 +1,5 @@
 // you can also use includes, for example:
 #include <algorithm>
-#include <iostream>
 
 bool Greater(int a, int b)
 {
